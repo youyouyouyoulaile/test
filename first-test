@@ -1,0 +1,7 @@
+#include <stdio.h>
+int main()
+{
+printf("hello worle");
+printf("22111303183fuxintong");
+return 0;
+}
